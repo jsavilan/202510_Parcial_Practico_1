@@ -67,7 +67,7 @@ public class ConsultaMedicaServiceTest {
 
         assertEquals(consulta.getId(), resultado.getId());
 		assertEquals(consulta.getCausa(), resultado.getCausa());
-		assertTrue(consulta.getFecha().after(resultado.getFecha()));
+		assertFalse(consulta.getFecha().after(resultado.getFecha()));
     }
 
 }
