@@ -1,4 +1,8 @@
-# Ejemplo Parcial Práctico 1
+# Parcial Práctico 1
+
+## Nombre, Apellido y codigo
+
+Juan Sebastián Ávila Nivia - 202320465
 
 ## Instrucciones
 
